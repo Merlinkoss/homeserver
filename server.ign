@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDkKRqwASLvqQEonkEzYualipPZxR0isPc/vLSl8HMAgqQ7VPe02OzjceojIIjPpnnEq0lNO2Htk56J1kw7cQj/oAhv4hmm3tHuqMpKX/xKWWUvCHj4zhl3eW3m7ADNqDit0VArBvVY55vwHBL90NMriK7wEGBiygvSfYg1TRv3NXFKXxcKNrVRpNMapOn+W1Hz7Gbhj7MHyhDicNDubLlBr6SUb6pIA2akhxVH6NBqLPHqWuFRUMIphRoSXbtCdu3hPIC5ZurNo+DD3aGJYWJHnymTE8guUksgDXPn4epGkF9ZWzKZ318dIk4XSpsKPwphIhNQGM+6oXPALEv55svbMmDY3Eb0ERPqrikgIxHsodhwJ2YXAIj5KN+dQkK+8HsTT8OWJUKEaPsDfQWiLVekoQT9LDCyttMsEVXyTmOZphDAhuHJQUFo4CnswhuC0S3V9aVNFrpg0DAYKzVROObaB9h68H9MVG1Kr9BnbTpguA19T8tR4ySVGZBMscFEAQU= anton@MBP-Anton.lan"
+        ]
+      }
+    ]
+  }
+}
